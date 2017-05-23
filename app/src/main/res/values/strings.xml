@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FacebookIntegrationApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">1818361668492081</string>
+    <string name="fblogin">fblogin</string>
+</resources>
